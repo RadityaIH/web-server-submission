@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "submissionmlgc-radityailham",
+  "private_key_id": "82ebf0987aee79e81ea294433cdda1dd26d61b65",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCdrrRlxkqW9BAi\nErJZA+cKY7KnNoOIWwo4SRKu1fkR9BLXfx1jegS7/taeKL1KHdPhwhXm0/eMPj/y\nlc9R8MKijqIOzuTasT6eOIpxdB++0ZdlAEFiczRN5p2TeNs2+BBm5bgOqY4AC17i\n9PzqzKxQghvziDtaZzQ+Oru2S85aZJYG++O4mVOIvzoD3zf4aapvES6DXb2AYdlg\nC11mblwdz3om1rtNDY22ubtFjD2QgEMQIwLi22RSrEbfcTiO9I6FnYb5LsgVM10k\nbOYgy94UjXND1oBsIpA0QLjSGoKHrSPPd8UFkDsHZ1cso0Acxuwq3QyCVtt9TuEB\nWGmivm/lAgMBAAECggEAI+ZnyhgoWU/98FQDaQLbcmEahrmBnuTjYcc5SrcKuwyv\n0YJuZXydYVP29xFdb2d1Gxw+MkymOrbdhlSXXBeNqMcCnI58SlI6aHmFA6mlpKNB\nbcxuFoUWLnpH/BBzEIPP8C1zB1uRKe9szg1rG+Y3gSjuRjcJFF8U5OooXKvLsoaC\ndVXmE4Gz5Q9ct54+G5jwogppUIPXwY7zuHuBXt2cKkiMQiWWzWyLckkisnTvW12n\nXKKWkNTXkmliMZqX2t95neXF6ZtwD3lUkR1Azy2s2ehRG6oKuwxMoPUgH6ZCHUbf\nE2mMHQCs23l+5G5JROaE+Rj0xQP5eQVIWGVGei25jQKBgQDWu8gcT5/YylD99ocr\nDm6wSzARRV+6gi3grIEhldFeVCNwBPrRhXiAqRPHTdkfP+5exW+cWp+f+YWSREDM\nblE3j3S9sGEDaE0fI8VK9d9ADvDO0IdCIWNfqN0rChcUAx91xVPBAvvnWEAvziAY\nXYdAmOKWuld3cnV9IZqCNMSI8wKBgQC7/DAidJf4HUUuf5fhGQHI1Mjh5bMQrWpj\nh9qz35d3XUL+tf7UIJHcrGRp1+WY+3iJ0V39SKR8jxOVCZkofIrmUbyhslSlNf6W\nWoa8DN+/vh2cipbMa1PX+brdUzxy1QmMKrGsFoliE4zAXBKtzxI0zHfG/GZKTpJ5\nTwL6+xbZxwKBgFGQ1rxaSn+Qqh8ty75BJy50APguf+Ramo6jOBHH1NWd5DAi1BtO\nNa25i7fDDFxgbm01VeXwTn33zBL5NhvxM4yFQ3TiUJd4wQK5FbIZnwm4IySL9TTb\ndeHaRNiaZpXFcefMYroIJiOEVC1UgMCAlmWlLTzP33WR1qsHXqdi39ydAoGACRzj\nlHgEefGpTeS/jxjwPjUae+Dvuko90w9d6cRYCmBKBCD8dnoRuBnfUEY4Ch9+q2er\n38BqwOMKtvndI9pNvXaO52PGuK+SZOWEjI8vNZNYyiLpxoUZbmnbxijn0EVFjjbv\noAEDre52r0iHW0ejgU28LLhFmSqP7TOIWHRdmjcCgYBAZn28D8vBE0A3HWwl1kSz\nmYrxwb/Y8tjWIs6VAAtA6B5Ym1KuzypXLaNxaqeakbTd11toPzt/Ryx3wmoH9BwQ\nH2EcDbxF+QqkAU8z2OVXrGZ27dulsHMM58iXWbYqCi4nr8HT1c4a1fvnhhJSvv8o\n4c+NUVYWLHUe2D2f3PlLjQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firestore-access@submissionmlgc-radityailham.iam.gserviceaccount.com",
+  "client_id": "109373383121407541506",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firestore-access%40submissionmlgc-radityailham.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
